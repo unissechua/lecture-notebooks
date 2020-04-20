@@ -1,3 +1,6 @@
+## Ignore any data folders
+*/data/*
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
