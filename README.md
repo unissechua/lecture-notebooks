@@ -1,6 +1,6 @@
-# Lecture Notebooks
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Lecture Notebooks
 
 This is a repository to keep all the Jupyter lecture notebooks I've created for various courses I've taught. :star: to get updates!
 
